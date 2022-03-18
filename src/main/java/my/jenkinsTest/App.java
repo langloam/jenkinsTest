@@ -10,7 +10,5 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Look at this beautiful line!" );
-        System.out.println( "Look at this beautiful line too!" );
-        System.out.println( "Look at this beautiful line ?" );
     }
 }
